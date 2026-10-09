@@ -52,7 +52,7 @@ function AuthPage() {
     <main className="auth-shell">
       <section className="auth-story">
         <Link className="brand brand-light" to="/">
-          <span className="brand-mark">交</span>交換ノート
+          <span className="brand-mark">📒</span>交換日記
         </Link>
         <div className="story-copy">
           <p className="eyebrow">A LITTLE SPACE, TOGETHER</p>
